@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>note</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-24 21:15:31</sys_created_on>
+        <sys_data_policy display_value="Sets the Note field to mandatory">80f5adf9db40e010309b2737489619ba</sys_data_policy>
+        <sys_id>44f5adf9db40e010309b2737489619bc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>note</sys_name>
+        <sys_package display_value="Recovery" source="x_548408_recovery">49b461b1db40e010309b2737489619ed</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Recovery">49b461b1db40e010309b2737489619ed</sys_scope>
+        <sys_update_name>sys_data_policy_rule_44f5adf9db40e010309b2737489619bc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-24 21:15:31</sys_updated_on>
+        <table>x_548408_recovery_visite</table>
+    </sys_data_policy_rule>
+</record_update>

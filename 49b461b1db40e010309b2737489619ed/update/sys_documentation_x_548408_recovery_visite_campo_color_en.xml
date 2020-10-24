@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="campo_color" label="campo color" language="en" table="x_548408_recovery_visite">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>campo_color</element>
+            <help/>
+            <hint/>
+            <label>campo color</label>
+            <language>en</language>
+            <name>x_548408_recovery_visite</name>
+            <plural>campo colors</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-24 21:27:53</sys_created_on>
+            <sys_id>d1c829bddb40e010309b2737489619b4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>campo color</sys_name>
+            <sys_package display_value="Recovery" source="x_548408_recovery">49b461b1db40e010309b2737489619ed</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Recovery">49b461b1db40e010309b2737489619ed</sys_scope>
+            <sys_update_name>sys_documentation_x_548408_recovery_visite_campo_color_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-24 21:27:53</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

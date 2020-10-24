@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Visite" max_length="40" name="x_548408_recovery_visite" type="collection">
+        <element label="campo color" max_length="40" name="campo_color" type="color"/>
+        <element label="campo prezzo" max_length="20" name="campo_prezzo" type="price"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="codice fiscale" max_length="50" name="codice_fiscale" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="data " max_length="40" name="data" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Id visita" max_length="50" name="id_visita" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Note" max_length="100" name="note" type="string"/>
+        <element label="Peso" max_length="40" name="peso" type="float"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="M" label="Sesso " max_length="40" name="sesso" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Female" value="F"/>
+                <element inactive_on_update="false" label="Male" value="M"/>
+            </choice>
+        </element>
+        <element label="temperatura" max_length="40" name="temperatura" type="integer"/>
+    </element>
+</database>

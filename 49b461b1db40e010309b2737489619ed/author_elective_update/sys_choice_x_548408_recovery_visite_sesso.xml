@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="sesso" table="x_548408_recovery_visite" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>sesso</element>
+            <name>x_548408_recovery_visite</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-24 21:15:30</sys_created_on>
+            <sys_id>c8f5adf9db40e010309b2737489619a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>sesso</sys_name>
+            <sys_package display_value="Recovery" source="x_548408_recovery">49b461b1db40e010309b2737489619ed</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Recovery">49b461b1db40e010309b2737489619ed</sys_scope>
+            <sys_update_name>sys_choice_x_548408_recovery_visite_sesso</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-24 21:15:30</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sesso</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Female</label>
+            <language>en</language>
+            <name>x_548408_recovery_visite</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-24 21:15:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4cf5adf9db40e010309b2737489619ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-24 21:15:30</sys_updated_on>
+            <value>F</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>sesso</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Male</label>
+            <language>en</language>
+            <name>x_548408_recovery_visite</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-10-24 21:15:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8cf5adf9db40e010309b2737489619a7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-10-24 21:15:30</sys_updated_on>
+            <value>M</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
